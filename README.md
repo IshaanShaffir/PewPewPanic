@@ -1,4 +1,39 @@
-# Space Invadors: PewPewPANIC!
+# 🚀 PEWPEWPANIC!
+
+**PEWPEWPANIC!** is a fast-paced 2D space shooter built in Unity — a modern reimagining of *Space Invaders* with dynamic movement, handcrafted levels, and increasingly intense enemy waves. Players must dodge, shoot, and survive through 10 uniquely designed levels leading up to an epic boss battle.
+
+## 🎮 Gameplay Features
+
+- 🎯 **Multi-Directional Movement**: Move freely in both vertical and horizontal directions for strategic dodging and aiming.
+- 👾 **Diverse Enemy Types**: Enemies with varied movement patterns and attack styles to keep each wave fresh.
+- ⚡ **Power-Ups**: Temporary boosts like rapid fire and shield regeneration to help turn the tide.
+- 🧠 **Handcrafted Level Design**: 10 custom-built levels with escalating difficulty and enemy combinations.
+- 💥 **Boss Fight Finale**: A challenging end-level boss with multiple attack phases and visual flair.
+- 🌌 **Retro Visuals & Sound**: Inspired by arcade shooters, featuring assets from OpenGameArt, Kenney, and Freesound.org.
+
+## 🧰 Tech Stack
+
+- **Engine**: Unity
+- **Language**: C#
+- **Assets**: Kenney, OpenGameArt, Freesound.org
+- **Version Control**: Git + GitHub
+
+## 🔨 Key Mechanics Implemented
+
+- Player movement and shooting system
+- Multiple enemy archetypes with unique AI
+- Score tracking with multipliers
+- Power-up system and collectible drops
+- Wave progression and difficulty scaling
+- Final boss logic and UI transitions
+- Health system and game over screen
+
+## 👥 Built By
+
+**Dynamic Duo**:
+- Ishaan Shaffir  
+- Aman Kaushik
+
 
 ## Playable Link
 https://ishaanshaffir.itch.io/pewpewpanic
